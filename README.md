@@ -1,4 +1,4 @@
-<img align="center" src="https://tse4.mm.bing.net/th?id=OIP.IWPKCSHmnIbS292DM1bMDgHaHa&pid=Api&P=0">
+<img align="right" src="https://tse4.mm.bing.net/th?id=OIP.IWPKCSHmnIbS292DM1bMDgHaHa&pid=Api&P=0">
 Hello! 👋 I'm Raven<br>
 
 ## 🌐 Socials:
