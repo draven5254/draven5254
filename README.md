@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# 💫 About Me:
 Hello! I'm Raven<br>
+
 
 
 ## 🌐 Socials:
