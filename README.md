@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hello! I'm Raven 👋<h1>
-<h3 align="center">Frontend Developer<h3>
+<h3 align="center">Aspiring Frontend Developer<h3>
 <img align="right" width="400" src="https://tse4.mm.bing.net/th?id=OIP.IWPKCSHmnIbS292DM1bMDgHaHa&pid=Api&P=0">
 
 ## 🌐 Socials:
