@@ -1,5 +1,7 @@
-<img align="right" src="https://tse4.mm.bing.net/th?id=OIP.IWPKCSHmnIbS292DM1bMDgHaHa&pid=Api&P=0">
-Hello! 👋 I'm Raven<br>
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<h1 align="center">Hello! I'm Raven 👋<h1>
+<h3 align="center">Frontend Developer<h3>
+<img align="right" width="400" src="https://tse4.mm.bing.net/th?id=OIP.IWPKCSHmnIbS292DM1bMDgHaHa&pid=Api&P=0">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/DRAVEN#7074) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Raven Valdeviso) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Raven Valdeviso) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/dravendraven5254) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_chojii_) 
