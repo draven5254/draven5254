@@ -1,6 +1,9 @@
 ![MasterHead](https://www.garymarkinfotech.com/images/bc.gif)
 <h1 align="center">Hello! I'm Raven 👋<h1>
 <h3 align="center">Aspiring Frontend Developer<h3>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+  
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
 
 ## 🌐 Socials:
