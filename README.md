@@ -1,5 +1,5 @@
 ![MasterHead](https://www.garymarkinfotech.com/images/bc.gif)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+i'm+Raven+nice+to+meet+you+<3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello!+i'm+Raven+nice+to+meet+you+<3)](https://git.io/typing-svg)
 <h3 align="center">Aspiring Frontend Developer<h3>
   
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
